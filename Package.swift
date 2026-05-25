@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "FlagsIOS",
             url: "https://github.com/pandey-vivek/flags-ios-spm/releases/download/0.1.0/FlagsIOS.xcframework.zip",
-            checksum: "REPLACE_AFTER_RUNNING_publish-binary-release.sh"
+            checksum: "1aff13f9476485009de9a59fd8ef1244be0e71cecd677760afa474cba3255700"
         ),
         .target(
             name: "FlagsConsumer",
